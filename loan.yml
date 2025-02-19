@@ -5,7 +5,7 @@ loan:
   message: " this is dev env belpw are the contact detail for LOAN API"
   contactDetails :
     name : "John Doe developer"
-    email: "johnd@test.com"
+    email: "{cipher}f6fb83f5128d737051df49bc0048a5a4caf694b0e3018a7541f3239423d414af"
   onCallSupport:
     - (111) 567-678
     - (111) 123-678
