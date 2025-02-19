@@ -1,0 +1,11 @@
+Build:
+  version: "3.0"
+
+loan:
+  message: " this is dev env belpw are the contact detail for LOAN API"
+  contactDetails :
+    name : "John Doe developer"
+    email: "johnd@test.com"
+  onCallSupport:
+    - (111) 567-678
+    - (111) 123-678

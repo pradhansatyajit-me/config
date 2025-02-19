@@ -1,0 +1,14 @@
+spring:
+  config:
+    activate:
+      on-profile: "qa"
+Build:
+  version: "2.0"
+loan:
+  message: "welcome to QA env "
+  contactDetails:
+    name: "Scott v QA"
+    email: "scott@test.com"
+  onCallSupport:
+    - (444) 234-567
+    - (444) 105=938

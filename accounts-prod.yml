@@ -1,0 +1,15 @@
+spring:
+  config:
+    activate:
+      on-profile: "prod"
+Build:
+  version: "1.0"
+
+accounts:
+  message: "Welcome to prod "
+  contactDetails:
+    name: "Sam-- prod manager"
+    email: "sam@test.com"
+  onCallSupport:
+    - (556) 789-1234
+    - (556) 789-1345

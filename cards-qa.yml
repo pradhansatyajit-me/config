@@ -1,0 +1,11 @@
+Build:
+  version: "2.0"
+
+cards:
+  message: "Welcome to QA API's for bank "
+  contactDetails:
+    name: "Smith V -- QA lead"
+    email: "smithv@test.com"
+  onCallSupport:
+    - (666) 555-1234
+    - (666) 523-1345

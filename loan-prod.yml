@@ -1,0 +1,11 @@
+
+Build:
+  version: "1.0"
+loan:
+  message: "welcome to PROD LOAN API"
+  contactDetails:
+    name: "Smith Prod Manager"
+    email: "scott@test.com"
+  onCallSupport:
+    - (555) 123-456
+    - (555) 456-789
