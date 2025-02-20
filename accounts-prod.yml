@@ -6,7 +6,7 @@ Build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to production environment of accounts API "
+  message: "Welcome to prod environment of accounts API "
   contactDetails:
     name: "Sam-- prod manager"
     email: "sam@test.com"
