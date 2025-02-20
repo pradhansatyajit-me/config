@@ -2,7 +2,7 @@ biroBuild:
   version: "1.0"
 
 cards:
-  message: "Welcome to prod "
+  message: "Welcome to prod environment of Cards API"
   contactDetails:
     name: "Sam-- prod manager"
     email: "sam@test.com"
