@@ -2,9 +2,9 @@ Build:
   version: "2.0"
 
 accounts:
-  message: "Welcome to QA API's for bank "
+  message: "Welcome to QA API's for bank applicaton "
   contactDetails:
-    name: "Smith V -- QA lead"
+    name: "Smith V -- QA leader"
     email: "smithv@test.com"
   onCallSupport:
     - (666) 555-1234
