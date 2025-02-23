@@ -1,8 +1,8 @@
-Build:
+biroBuild:
   version: "1.0"
 
 cards:
-  message: "Welcome to prod "
+  message: "Welcome to production environment of Cards API v2.1"
   contactDetails:
     name: "Sam-- prod manager"
     email: "sam@test.com"
