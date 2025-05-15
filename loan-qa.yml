@@ -5,7 +5,7 @@ spring:
 Build:
   version: "2.0"
 loan:
-  message: "welcome to QA env "
+  message: "welcome to QA env of loans "
   contactDetails:
     name: "Scott v QA"
     email: "scott@test.com"
