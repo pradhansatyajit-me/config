@@ -4,7 +4,7 @@ Build:
 loan:
   message: "welcome to prod environment of  LOAN API v2.1"
   contactDetails:
-    name: "Smith Production Manager"
+    name: "Smith Production Manager updated"
     email: "{cipher}b379b4e9e4cb069f094b47f9c4ce5c5bacbed07567f536abe689c9fa0fd37099b9f6fd8ba4fe43df936a73f0a191d650"
   onCallSupport:
     - (555) 123-456
