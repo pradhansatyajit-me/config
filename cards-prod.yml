@@ -4,7 +4,7 @@ Build:
 cards:
   message: "Welcome to production environment of Cards API v2.1"
   contactDetails:
-    name: "Sam-- production manager updated"
+    name: "Sam-- prod manager "
     email: "sam@test.com"
   onCallSupport:
     - (556) 789-1234
