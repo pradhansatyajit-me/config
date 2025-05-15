@@ -3,7 +3,7 @@ Build:
   version: "3.0"
 
 cards:
-  message: "The contact details for support person for any issues in this API "
+  message: "The contact details for dev support person for any issues in cards API "
   contactDetails:
     name: "John Doe -- developer"
     email: "john@test.com"
