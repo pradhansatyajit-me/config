@@ -2,7 +2,7 @@ Build:
   version: "2.0"
 
 accounts:
-  message: "Welcome to QA API's for bank applicaton "
+  message: "Welcome to QA API's for accounts Api bank applicaton "
   contactDetails:
     name: "Smith V -- QA leader"
     email: "smithv@test.com"
