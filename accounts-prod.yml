@@ -6,7 +6,7 @@ Build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to production environment of accounts API v6 webhook"
+  message: "Hello You are in Production environment "
   contactDetails:
     name: "Sam-- prod manager"
     email: "sam@test.com"
