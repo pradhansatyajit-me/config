@@ -2,10 +2,10 @@ Build:
   version: "3.0"
 
 accounts:
-  message: "The contact details for support person for any issues in this API webhook"
+  message: "The contact details for dev of accounts api support person "
   contactDetails:
     name: "John Doe -- developer"
     email: "john@test.com"
-  onCallSupport:
+  onCallSupport
     - (555) 555-1234
     - (555) 523-1345
