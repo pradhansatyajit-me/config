@@ -5,7 +5,7 @@ accounts:
   message: "The contact details for dev of accounts api support person "
   contactDetails:
     name: "John Doe -- developer"
-    email: "john@test.com"
+    email: "{cipher}9aac2deb838dca69b68b33c7ae2e35771dfc463b867685733dd638d7460bbb7e"
   onCallSupport:
     - (555) 555-1234
     - (555) 523-1345
