@@ -2,7 +2,7 @@ Build:
   version: "1.0"
 
 cards:
-  message: "Welcome to production environment of Cards webhook API v2.1"
+  message: "Welcome to production environment of Cards webhook 1.1 API v2.1"
   contactDetails:
     name: "Sam-- prod manager "
     email: "sam@test.com"
